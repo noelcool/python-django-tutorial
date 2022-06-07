@@ -1,7 +1,6 @@
 # python-django-tutorial
 
 <img src="https://img.shields.io/badge/django 4.0-092E20?style=flat-square&logo=django&logoColor=white"/>
-<br/>
 <img src="https://img.shields.io/badge/python 3.9-3776AB?style=flat-square&logo=python&logoColor=white"/>
 
 ## 프로젝트 만들기
